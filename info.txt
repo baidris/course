@@ -1,1 +1,2 @@
 ma premiere ligne dans le code.
+ma deuxime ligne a distance from GIT
